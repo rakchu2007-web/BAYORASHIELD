@@ -1,0 +1,6 @@
+{
+  "name": "BAYORASHIELD - Adversarial AI Safety Command Center",
+  "description": "Attack the AI. Protect the Intelligence. Prove the Security. An adversarial AI safety command center with cryptographic audit trails, verified RBAC isolation, and automated red/blue team testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
